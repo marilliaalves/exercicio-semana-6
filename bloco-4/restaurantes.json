@@ -1,0 +1,52 @@
+[
+    {
+        "Restaurante": "Chiwake",
+        "Culinária": "Peruana",
+        "Horário de funcionamento": "De terça a domingo, das 12 ás 20h"
+    },
+    {
+        "Restaurante": "Bargaço",
+        "Culinária": "Frutos do mar",
+        "Horário de funcionamento": "De domingo a domingo, das 12 ás 22h"
+    },
+    {
+        "Restaurante": "Pobre Juan",
+        "Culinária": "Carnes",
+        "Horário de funcionamento": "De domingo a domingo, das 12 ás 20h"
+    },
+    {
+        "Restaurante": "Tasquinha do tio",
+        "Culinária": "Portuguesa",
+        "Horário de funcionamento": "De domingo a domingo, das 12 ás 22h"
+    },
+    {
+        "Restaurante": "Bode de Nô",
+        "Culinária": "Nordestina",
+        "Horário de funcionamento": "De domingo a domingo, das 11 ás 21h"
+    },
+    {
+        "Restaurante": "Reteteu - Comida Honesta",
+        "Culinária": "Brasileira",
+        "Horário de funcionamento": "De terça a domingo, das 12 ás 15h"
+    },
+    {
+        "Restaurante": "Cá-Já",
+        "Culinária": "Brasileira",
+        "Horário de funcionamento": "De quinta a domingo, das 11:30 ás 14:30h"
+    },
+    {
+        "Restaurante": "La Pecora Nera",
+        "Culinária": "Italiana",
+        "Horário de funcionamento": "De terça a domingo, das 12 ás 00h"
+    },
+    {
+        "Restaurante": "Outback",
+        "Culinária": "Australiana ",
+        "Horário de funcionamento": "De domingo a domingo, das 12 ás 21h"
+    },
+    {
+        "Restaurante": "Rihan",
+        "Culinária": "Árabe",
+        "Horário de funcionamento": "De quinta a domingo, das 18 ás 22h"
+    }
+]

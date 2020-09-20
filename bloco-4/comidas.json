@@ -1,0 +1,52 @@
+[
+    {
+        "Comida": "Acarajé",
+        "Origem": "África Ocidental",
+        "Tempo de preparo": "Em média 1h 20min"
+    },
+    {
+        "Comida": "Pizza",
+        "Origem": "Itália",
+        "Tempo de preparo": "Em média 1h 30min"
+    },
+    {
+        "Comida": "Moussaka",
+        "Origem": "Grécia",
+        "Tempo de preparo": "Em média 1h"
+    },
+    {
+        "Comida": "Masala dosa",
+        "Origem": "India",
+        "Tempo de preparo": "Em média 1h 30min"
+    },
+    {
+        "Comida": "Som tam",
+        "Origem": "Tailândia",
+        "Tempo de preparo": "Em média 50min"
+    },
+    {
+        "Comida": "Tacos",
+        "Origem": "México",
+        "Tempo de preparo": "Em média 45min"
+    },
+    {
+        "Comida": "Alfajor",
+        "Origem": "Argentina",
+        "Tempo de preparo": "Em média 45min"
+    },
+    {
+        "Comida": "Bulgogi",
+        "Origem": "Coreia",
+        "Tempo de preparo": "Em média 15min"
+    },
+    {
+        "Comida": "Moqueca",
+        "Origem": "Brasil",
+        "Tempo de preparo": "Em média 1h 40min"
+    },
+    {
+        "Comida": "Baião de dois",
+        "Origem": "Brasil",
+        "Tempo de preparo": "Em média 1h"
+    }
+]

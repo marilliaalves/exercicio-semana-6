@@ -1,0 +1,52 @@
+[
+    {
+        "Curso": "Medicina",
+        "Média salarial": "R$ 10.645",
+        "Duração": "6 anos"
+    },
+    {
+        "Curso": "Direito",
+        "Média salarial": "R$ 4.507",
+        "Duração": "5 anos"
+    },
+    {
+        "Curso": "Jornalismo",
+        "Média salarial": "R$ 4.615,74",
+        "Duração": "4 anos"
+    },
+    {
+        "Curso": "Publicidade e Propaganda",
+        "Média salarial": "R$ 4.425,14",
+        "Duração": "4 anos"
+    },
+    {
+        "Curso": "Radio, Tv e Internet",
+        "Média salarial": "R$ 4.578,94",
+        "Duração": "4 anos"
+    },
+    {
+        "Curso": "Engenharia civil",
+        "Média salarial": "R$ 7.325",
+        "Duração": "5 anos"
+    },
+    {
+        "Curso": "Sistema de informação",
+        "Média salarial": "R$ 2.992,79",
+        "Duração": "4 anos"
+    },
+    {
+        "Curso": "Enfermagem",
+        "Média salarial": "R$ 3.656,11",
+        "Duração": "5 anos"
+    },
+    {
+        "Curso": "Pedagogia",
+        "Média salarial": "R$ 1.739,38",
+        "Duração": "4 anos"
+    },
+    {
+        "Curso": "Arquitetura e Urbanismo",
+        "Média salarial": "R$ 6.822",
+        "Duração": "5 anos"
+    }
+]
